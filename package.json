@@ -1,6 +1,6 @@
 {
   "name": "ctx-render-polyline",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "render line segments using html5 2d canvas",
   "main": "ctx-render-polyline.js",
   "scripts": {
