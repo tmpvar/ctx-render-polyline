@@ -1,0 +1,31 @@
+{
+  "name": "ctx-render-polyline",
+  "version": "0.0.0",
+  "description": "render line segments using html5 2d canvas",
+  "main": "ctx-render-polyline.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/ctx-render-polyline.git"
+  },
+  "keywords": [
+    "canvas",
+    "2d",
+    "ctx",
+    "CanvasRenderingContext2D",
+    "segments",
+    "polyline"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/ctx-render-polyline/issues"
+  },
+  "homepage": "https://github.com/tmpvar/ctx-render-polyline",
+  "devDependencies": {
+    "ctx-translate-center": "^1.0.0",
+    "tape": "^4.0.0"
+  }
+}
